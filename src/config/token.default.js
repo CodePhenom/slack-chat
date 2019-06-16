@@ -1,2 +1,1 @@
-export const TOKEN =
-	"";
+export const TOKEN = "";
